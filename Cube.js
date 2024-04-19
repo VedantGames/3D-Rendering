@@ -1,4 +1,3 @@
-import { Matrix4 } from 'three';
 import Rect from './Rect';
 import Triangle from './Triangle';
 
