@@ -1,4 +1,3 @@
-import { radToDeg } from "three/src/math/MathUtils.js";
 import Cube from "./Cube";
 import Player from "./Player";
 var canvas = document.getElementById('canvas');
