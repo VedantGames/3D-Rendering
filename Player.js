@@ -1,4 +1,5 @@
-export default class Player {
+console.log("Adfa");
+class Player {
   constructor() {
     this.position = {
       x: 0,

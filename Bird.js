@@ -1,4 +1,4 @@
-export default class Bird {
+class Bird {
   constructor(canvas, x, y, g) {
     this.ctx = canvas;
     this.x = x;

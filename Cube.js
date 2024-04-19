@@ -1,7 +1,4 @@
-import Rect from './Rect';
-import Triangle from './Triangle';
-
-export default class Cube {
+class Cube {
   Cw = 100;
   Ch = 100;
   Vw = 1;

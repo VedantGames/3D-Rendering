@@ -1,7 +1,7 @@
-import Cube from "./Cube";
-import Player from "./Player";
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
+
+console.log("sss");
 
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;

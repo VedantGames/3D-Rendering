@@ -1,4 +1,4 @@
-export default class Triangle {
+class Triangle {
   draw(ctx, a, b, c, color) {
     // console.log(a, b, c)
     ctx.beginPath();

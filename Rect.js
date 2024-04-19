@@ -1,4 +1,4 @@
-export default class Rect {
+class Rect {
   draw(ctx, a, b, c, d) {
     ctx.moveTo(a[0], a[1]);
     ctx.lineTo(b[0], b[1]);
